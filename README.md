@@ -20,11 +20,11 @@
 
 <h2 align="center"> Características </h2>
 
-- `Rango de longitud` : Permite especificar la longitud minima y maxima de las contraseñas a generar (min = 5, max = 15)
+- `Rango de longitud` : Permite especificar la longitud mínima y máxima de las contraseñas a generar (min = 5, max = 15)
 - `Transformaciones` : Intercambia letras por numero o caracteres especiales similares. (A -> 4, S -> $)
 - `Mayúsculas` : Transforma mayúsculas a minúsculas o viceversa según posición o patrón. (a -> A, B -> b)
 - `Caracteres especiales` : Incluye los caracteres especiales más utilizados o indica tu propia lista. (/, *, +, $, %, !, &)
-- `Recursividad` :   Permite aplicar a una ontraseña el mismo transformador varias veces. (Hola Mundo -> H0l4 Mund0)
+- `Recursividad` :   Permite aplicar a una contraseña el mismo transformador varias veces. (Hola Mundo -> H0l4 Mund0)
 - `Bloques` :   Genera varias listas con diferentes datos y excluye contraseñas repetidas en ellas.
 - `Historial` :   Mantén un registro de los datos usados por cada lista y optimiza el OSINT.
 - `Optimización` :   Reduce considerablemente el tamaño de la lista basandose en parámetros o en patrones de contraseñas redundantes. (Hola Mundo, HolA MunDo, HOla Mundo -> Hola Mundo)
