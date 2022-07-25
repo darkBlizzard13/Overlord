@@ -34,6 +34,18 @@
 
 ![software-img1](https://user-images.githubusercontent.com/71462334/180699935-f4937e86-0127-4512-b582-d41145a08ca3.png)
 
+## Como funciona
+[USO BÁSICO] Empieza por definir la longitud mínima y máxima de la contraseña. Luego ingresa una lista de palabras, personaliza la lista de caracteres especiales (opcional), elige las transformaciones, escoge si activar o no la recursividad y listo.
+</BR>
+</BR>
+El programa creará todas las combinaciones posibles entre las palabras que se ingresaron respetando el rango de longitud. Se pueden generar varias listas con diferentes parámetros y excluir los resultados iguales una de la otra.
+
+## Por implementar
+- Tablero OSINT
+- Recoleccion de información de publicaciónes para generar palabras clave (Instagram)
+- Integrar recolector de proxies
+- Integrar Instagram-py para ataques de fuerza bruta.
+
 ## Contacto
 
 <a href="https://www.instagram.com/csr_21pnda" target="_blank" rel="noopener noreferrer">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
