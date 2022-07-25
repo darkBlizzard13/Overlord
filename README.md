@@ -20,7 +20,7 @@
 
 <h2 align="center"> Características </h2>
 
-- `Rango de longitud` : Permite espesificar la longitud minima y maxima de las contraseñas a generar (min = 5, max = 15)
+- `Rango de longitud` : Permite especificar la longitud minima y maxima de las contraseñas a generar (min = 5, max = 15)
 - `Transformaciones` : Intercambia letras por numero o caracteres especiales similares. (A -> 4, S -> $)
 - `Mayúsculas` : Transforma mayúsculas a minúsculas o viceversa según posición o patrón. (a -> A, B -> b)
 - `Caracteres especiales` : Incluye los caracteres especiales más utilizados o indica tu propia lista. (/, *, +, $, %, !, &)
