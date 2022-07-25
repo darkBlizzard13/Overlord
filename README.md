@@ -3,7 +3,10 @@
 <a href="#">![Portada](https://user-images.githubusercontent.com/71462334/180693573-47c4ce0c-9d84-4579-8a4a-91bc6fd3e2ca.png)</a>
 
 
-<h3 align="center"> Poderosa herramienta de descifrado de contraseñas para ataques dirigidos de fuerza bruta </h3>
+<h3 align="center"> Poderosa herramienta de descifrado de contraseñas para ataques dirigidos de fuerza bruta. </h3>
+
+
+</BR>
 
 <div align="center">
 
@@ -11,8 +14,29 @@
 
 </div>
 
-## Features
+```diff
+! Creado con fines educativos y de investigación
+```
+
+</BR>
+
+<h2 align="center"> Características </h2>
 
 - `Rango de longitud` : Permite espesificar la longitud minima y maxima de las contraseñas a generar (min = 5, max = 15)
-- Fullscreen mode
-- Cross platform
+- `Transformaciones` : Intercambia letras por numero o caracteres especiales similares. (A -> 4, S -> $)
+- `Mayúsculas` : Transforma mayúsculas a minúsculas o viceversa según posición o patrón. (a -> A, B -> b)
+- `Caracteres especiales` : Incluye los caracteres especiales más utilizados o indica tu propia lista. (/, *, +, $, %, !, &)
+- `Recursividad` :   Permite aplicar a una ontraseña el mismo transformador varias veces. (Hola Mundo -> H0l4 Mund0)
+- `Bloques` :   Genera varias listas con diferentes datos y excluye contraseñas repetidas en ellas.
+- `Historial` :   Mantén un registro de los datos usados por cada lista y optimiza el OSINT.
+- `Optimización` :   Reduce considerablemente el tamaño de la lista basandose en parámetros o en patrones de contraseñas redundantes. (Hola Mundo, HolA MunDo, HOla Mundo -> Hola Mundo)
+- `GUI` :   Interfaz gráfica para facilitar su uso.
+
+<h2 align="center"> GUI </h2>
+
+![software-img1](https://user-images.githubusercontent.com/71462334/180699935-f4937e86-0127-4512-b582-d41145a08ca3.png)
+
+## Contacto
+
+<a href="https://www.instagram.com/csr_21pnda" target="_blank" rel="noopener noreferrer">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+
