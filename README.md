@@ -10,13 +10,11 @@
 
 <div align="center">
 
-<a href="#">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)</a> <a href="#">![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)</a>
-
+<a href="#">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)</a> <a href="#">![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)</a> <a href="https://github.com/darkBlizzard13/Overlord/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/darkBlizzard13/Overlord?style=for-the-badge"></a>
+</BR>
+</BR>
+⚠️ Creado con fines educativos y de investigación ⚠️
 </div>
-
-```diff
-! Creado con fines educativos y de investigación
-```
 
 </BR>
 
